@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204754131246",
+    "project_id": "wemail-be433",
+    "storage_bucket": "wemail-be433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204754131246:android:3ec1654e2d92230b9f02bf",
+        "android_client_info": {
+          "package_name": "com.agb.wemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204754131246-98ue7d6p3mv2m0k3aq5aogvcr9ford6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexpNsNOdfBAH6SpPv3O0LYpdNIcPIbNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204754131246-98ue7d6p3mv2m0k3aq5aogvcr9ford6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
